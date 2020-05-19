@@ -14,6 +14,6 @@ type ram_type is array (0 to 2047) of std_logic_vector(15 downto 0);
 signal ram:ram_type;
 
 begin
-	dataout <=ram(to_integer(unsigned(address))) &ram(to_integer(unsigned(address)+1));
+	dataout <=ram(to_integer(unsigned(address)+1)) &ram(to_integer(unsigned(address)));
 	--we need to reset and interupt here 
 end instMemModel;

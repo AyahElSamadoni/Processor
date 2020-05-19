@@ -19,10 +19,11 @@ Architecture pcCuModel of pcCu is
 COMPONENT nAdder is 
 generic (n :integer :=32);
 PORT
-(a, b:IN std_logic_vector (n-1 DOWNTO 0) ;
-cin: IN std_logic;
-s : OUT std_logic_vector (n-1 DOWNTO 0);
-cout: OUT std_logic);
+( A: IN std_logic_vector(n-1 DOWNTO 0);
+B: IN std_logic_vector(n-1 DOWNTO 0);
+Cin: IN std_logic;
+F: OUT std_logic_vector(n-1 DOWNTO 0);
+Cout: OUT std_logic);
 END COMPONENT;
 
 signal addMuxControl,cout:std_logic;

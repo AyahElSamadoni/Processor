@@ -26,7 +26,8 @@ process(clk, reset) is
 			--To Avoid Write conflict we added write within Process with synthesis list (clk)
 			if rising_edge(clk) then 
 				if MemWrite = '1' then 
-					Ram(to_integer(unsigned(MemAdd))) <= DataIn;
+					Ram(to_integer(unsigned(MemAdd)+1)) <= DataIn(31 downto 16);
+					Ram(to_integer(unsigned(MemAdd))) <= DataIn(15 downto 0);
 				end if;
 			end if;
 		end if;
