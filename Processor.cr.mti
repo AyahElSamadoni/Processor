@@ -1,0 +1,136 @@
+C:/Users/ayahs/Desktop/Processor/RegFile.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/RegFile.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RegFile
+-- Compiling architecture ModelReg of RegFile
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/AdderModule.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/AdderModule.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdderModule
+-- Compiling architecture AdderModuleModel of AdderModule
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/nAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/nAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nAdder
+-- Compiling architecture Model of nAdder
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GenericBuffer
+-- Compiling architecture GenericBufferModel of GenericBuffer
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/Ram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/Ram.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram
+-- Compiling architecture sync_ram_a of ram
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder
+-- Compiling architecture adderModel of adder
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/flipflop.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/flipflop.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity myn_dff
+-- Compiling architecture a_myn_dff of myn_dff
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/NDFF.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/NDFF.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NDFF
+-- Compiling architecture ModelNDFF of NDFF
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/Decoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/Decoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decoder
+-- Compiling architecture ModelDec of Decoder
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/counter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture my_counter of counter
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/CU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/CU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CU
+-- Compiling architecture CUModel of CU
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/CCRLU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/CCRLU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CCRLU
+-- Compiling architecture CCRLUModel of CCRLU
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/ALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture ALUModel of ALU
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/dataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\ayahs\Desktop\Processor\dataMemory.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dataMemory
+-- Compiling architecture dataMemoryModel of dataMemory
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/pcCu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/pcCu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pcCu
+-- Compiling architecture pcCuModel of pcCu
+
+} {} {}} C:/Users/ayahs/Desktop/Processor/instMem.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ayahs/Desktop/Processor/instMem.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity instMem
+-- Compiling architecture instMemModel of instMem
+
+} {} {}}

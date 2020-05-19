@@ -7,7 +7,7 @@ Generic ( n : integer := 16 ; m : integer := 16);
 PORT(
 clk,reset : in std_logic;
 DataIn: in std_logic_vector(31 DOWNTO 0);
-MemAdd: in std_logic_vector(31 DOWNTO 0);
+MemAdd: in std_logic_vector(1 DOWNTO 0);
 MemRead, MemWrite: in std_logic;
 resetPc:out std_logic_vector(11 downto 0);
 MemData: out std_logic_vector(31 DOWNTO 0)

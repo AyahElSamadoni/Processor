@@ -179,9 +179,4 @@ MEMWBflushVal <= (others => '0');
 
 MEMWBBuff: GenericBuffer generic map (103) port map (clk, stall, '0', MEMWBflushVal, MEMWBIN, MEMWBOUT);
 
---Write Back Stage:
-
-WBData <= MEMWBOUT(69 downto 38) when MEMWBOUT(102) = '1'
-else  MEMWBOUT(101 downto 70);
-
 end ProcessorModel;
