@@ -37,7 +37,7 @@ end component;
 
 component instMem is
 port( 
-resetPc: out std_logic_vector(11 downto 0);
+resetPc: out std_logic_vector(31 downto 0);
 address: in std_logic_vector(11 downto 0);
 dataout : out std_logic_vector(31 downto 0));
 end component;
@@ -102,11 +102,11 @@ end component;
 --signals 
 SIGNAL pcSig, regWrite, MemAdd,func: std_logic_vector(1 DOWNTO 0);
 
-SIGNAL pcPlusTwo,pcPlusOne,regIn,memIn,instruction,WBData,INDatafromregFile,V1,V2,V1toALU, R,DataInfromdataMem,MemData,pcOut: std_logic_vector(31 DOWNTO 0);
+SIGNAL pcPlusTwo,pcPlusOne,regIn,instruction,WBData,INDatafromregFile,V1,V2,V1toALU, R,DataInfromdataMem,MemData,pcOut: std_logic_vector(31 DOWNTO 0);
 
 SIGNAL stall,regRead,InSig,memRead, memWrite, flush,immSel,aluEn,jmp,dest,inP,outP,JN,JZ,JC ,SC,shift,wbSel,CallorInt,beforeDM: std_logic;
 
-SIGNAL resetPc:  std_logic_vector(11 downto 0);
+SIGNAL resetPc:  std_logic_vector(31 downto 0);
 
 SIGNAL ReadAd1, ReadAd2, WriteAd1, CCROld, CCR,spSel: std_logic_vector(2 DOWNTO 0);
 
@@ -135,7 +135,7 @@ begin
 
 
 --Fetch Stage:
-PcController: pcCu port map (pcSig,pcOut,pcPlusTwo,pcPlusOne,regIn,memIn,stall,int,reset);
+PcController: pcCu port map (pcSig,pcOut,pcPlusTwo,pcPlusOne,regIn,resetPc,stall,int,reset);
 
 instructionMemory:instMem port map(resetPc, pcOut(11 downto 0),instruction);
 

@@ -4,7 +4,7 @@ use ieee.numeric_std.all;
 
 Entity instMem is
 port( 
-resetPc: out std_logic_vector(11 downto 0);
+resetPc: out std_logic_vector(31 downto 0);
 address: in std_logic_vector(11 downto 0);
 dataout : out std_logic_vector(31 downto 0));
 end instMem;
@@ -17,6 +17,6 @@ signal ram:ram_type:= (others => (others => '0'));
 
 begin
 	dataout <=ram(to_integer(unsigned(address)+1)) &ram(to_integer(unsigned(address)));
-	resetPc <= ram(1)(11 downto 0);
+	resetPc <= ram(1) & ram(0);
 	--we need to reset and interupt here 
 end instMemModel;

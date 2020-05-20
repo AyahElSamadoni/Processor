@@ -12,7 +12,6 @@ sim:/processor/func \
 sim:/processor/pcPlusTwo \
 sim:/processor/pcPlusOne \
 sim:/processor/regIn \
-sim:/processor/memIn \
 sim:/processor/instruction \
 sim:/processor/WBData \
 sim:/processor/INDatafromregFile \
@@ -68,3 +67,7 @@ force -freeze sim:/processor/clk 1 0, 0 {50 ps} -r 100
 force -freeze sim:/processor/reset 1 0
 force -freeze sim:/processor/int 0 0
 mem load -i OneOperandMemory.mem /Processor/instructionMemory/ram
+run
+force -freeze sim:/processor/reset 0 0
+run
+run

@@ -27,5 +27,5 @@ process(clk) is
 			end if;
 		end if;
 end process;
-MemData <= Ram(to_integer(unsigned(MemAdd)+1)) & Ram(to_integer(unsigned(MemAdd)));
+--MemData <= Ram(to_integer(unsigned(MemAdd)+1)) & Ram(to_integer(unsigned(MemAdd)));
 end dataMemoryModel;
