@@ -36,8 +36,10 @@ end component;
 
 
 component instMem is
-port( address: in std_logic_vector(11 downto 0);
-     dataout : out std_logic_vector(31 downto 0));
+port( 
+resetPc: out std_logic_vector(11 downto 0);
+address: in std_logic_vector(11 downto 0);
+dataout : out std_logic_vector(31 downto 0));
 end component;
 
 
@@ -80,7 +82,6 @@ clk,reset : in std_logic;
 DataIn: in std_logic_vector(31 DOWNTO 0);
 MemAdd: in std_logic_vector(31 DOWNTO 0);
 MemRead, MemWrite: in std_logic;
-resetPc:out std_logic_vector(11 downto 0);
 MemData: out std_logic_vector(31 DOWNTO 0)
 );
 End component;
@@ -136,7 +137,7 @@ begin
 --Fetch Stage:
 PcController: pcCu port map (pcSig,pcOut,pcPlusTwo,pcPlusOne,regIn,memIn,stall,int,reset);
 
-instructionMemory:instMem port map(pcOut(11 downto 0),instruction);
+instructionMemory:instMem port map(resetPc, pcOut(11 downto 0),instruction);
 
 --Concatenating Buffer Value 
 IFIDIN <= pcPlusOne & instruction;
@@ -172,7 +173,7 @@ EXMEMBuff: GenericBuffer generic map (112) port map (clk, stall, '0', EXMEMflush
 
 --Memory Stage:
 
-dataMemPart: dataMemory port map(clk, reset, EXMEMOUT(37 downto 6), EXMEMOUT(69 downto 38) , memRead, memWrite, resetPc, DataInfromdataMem);
+dataMemPart: dataMemory port map(clk, reset, EXMEMOUT(37 downto 6), EXMEMOUT(69 downto 38) , memRead, memWrite, DataInfromdataMem);
 
 MEMWBIN <= EXMEMOUT(2 downto 0) & EXMEMOUT(5 downto 3) & EXMEMOUT(37 downto 6) & EXMEMOUT(69 downto 38) & DataInfromdataMem & EXMEMOUT(102);
 MEMWBflushVal <= (others => '0');
