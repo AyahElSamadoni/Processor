@@ -22,10 +22,13 @@ process(clk) is
 		--To Avoid Write conflict we added write within Process with synthesis list (clk)
 		if rising_edge(clk) then 
 			if MemWrite = '1' then 
-				Ram(to_integer(unsigned(MemAdd)+1)) <= DataIn(31 downto 16);
+				Ram(to_integer(unsigned(MemAdd))+1) <= DataIn(31 downto 16);
 				Ram(to_integer(unsigned(MemAdd))) <= DataIn(15 downto 0);
 			end if;
+			if MemRead = '1' then
+				MemData <= Ram(to_integer(unsigned(MemAdd))+1) & Ram(to_integer(unsigned(MemAdd)));
+			end if;
+
 		end if;
 end process;
---MemData <= Ram(to_integer(unsigned(MemAdd)+1)) & Ram(to_integer(unsigned(MemAdd)));
 end dataMemoryModel;

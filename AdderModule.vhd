@@ -17,7 +17,7 @@ output : out std_logic_vector(2 DOWNTO 0));
 end COMPONENT;
 
 COMPONENT nAdder IS 
-GENERIC (n: integer :=16);
+GENERIC (n: integer :=32);
 PORT( A: IN std_logic_vector(n-1 DOWNTO 0);
 B: IN std_logic_vector(n-1 DOWNTO 0);
 Cin: IN std_logic;
@@ -31,14 +31,15 @@ SIGNAL Cout: std_logic;
 
 begin 
 
+
 tempNOT <= not V1;
-INC: nAdder generic map (32) port map(V1, "00000000000000000000000000000001", '1', tempINC, Cout);
+INC: nAdder generic map (32) port map(V1, "00000000000000000000000000000001", '0', tempINC, Cout);
 DEC: nAdder generic map (32) port map(V1, "11111111111111111111111111111111", '0', tempDEC, Cout);
 
-tempR <= tempNOT WHEN OpCode = "00011"
-ELSE tempINC WHEN OpCode = "00100"
-ELSE tempDEC WHEN OpCode = "00101";
-
+tempR <= tempNOT WHEN OpCode = "00010"
+ELSE tempINC WHEN OpCode = "00011"
+ELSE tempDEC WHEN OpCode = "00100"
+ELSE (others => '0');
 CCRtemp: CCRLU port map(tempR, tempCCR);
 
 CCR<= tempCCR;

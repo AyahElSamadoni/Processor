@@ -13,7 +13,7 @@ end GenericBuffer;
 
 Architecture GenericBufferModel of GenericBuffer is
 begin
-	Process(clk,flush)
+	Process(clk,flush,BuffIn)
 	begin
 		--Stall helps us stall the pipe whe it is equal to 1
 		--Stall acts as a enabler to the buffer

@@ -61,13 +61,14 @@ begin
 			inP<='0';
 			outP<='0';
 			shift <='0';
-			bufferEn<='0';
+			bufferEn<='1';
 			wbSel <='0';
 			immSel <='0';
 			CallorInt<='0';
 			beforeDM <='0';
 	-------------------------------------------------------------------------------------------------
 	--SETC	
+	--CHECK BUFFEREn
 			elsif (opCode = "00001" and func= "10") then
 			aluEn <= '0' ;
 			dest <='0';
@@ -139,14 +140,15 @@ begin
 			inP<='0';
 			outP<='0';
 			shift <='0';
-			bufferEn<='1';
+			bufferEn<='0';
 			wbSel <='1';
 			immSel <='0';
 			CallorInt<='0';
 			beforeDM <='0';
 	-------------------------------------------------------------------------------------------------
+	--bufferenable is zero for mostafa el3'alta eli 2al 3aleha fy eldisscussion
 	--OUT
-
+     
 			elsif (opCode = "00101") then
 			aluEn <= '0' ;
 			dest <='0';
@@ -165,7 +167,7 @@ begin
 			inP<='0';
 			outP<='1';
 			shift <='0';
-			bufferEn<='1';
+			bufferEn<='0';
 			wbSel <='1';
 			immSel <='0';
 			CallorInt<='0';
@@ -192,7 +194,7 @@ begin
 			inP<='1';
 			outP<='0';
 			shift <='0';
-			bufferEn<='1';
+			bufferEn<='0';
 			wbSel <='1';
 			immSel <='0';
 			CallorInt<='0';
