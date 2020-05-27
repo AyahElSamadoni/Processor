@@ -110,16 +110,16 @@ SIGNAL reg : N_reg := (others => (others => '0'));
 BEGIN
 PROCESS(clk) IS
 BEGIN
-IF clk = '1' THEN
+IF rising_edge(clk) THEN
 IF WriteEn(1) = '1' THEN
 reg(to_integer(unsigned(WriteAd1))) <= WBData;    
 END IF;
 END IF;
 
 
+
+END PROCESS;
 V1 <= reg(to_integer(unsigned((ReadAd1))));
 V2 <= reg(to_integer(unsigned((ReadAd2))));
-END PROCESS;
-
 END ARCHITECTURE ;
 

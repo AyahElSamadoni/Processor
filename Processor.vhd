@@ -200,15 +200,6 @@ MEMWBBuff: GenericBuffer generic map (106) port map (clk, EXMEMOUT(114), reset, 
 
 --Write Back Stage:
 --WriteAd1<=MEMWBOUT(4 downto 2);
-process(clk)
-begin
-	if clk = '1' then
-		if(MEMWBOUT(102) = '1') then
-			WBData <= MEMWBOUT(69 downto 38);
-		else
-			WBData <= MEMWBOUT(101 downto 70);
-		end if;
-	end if;
-end process;
+WBData <= MEMWBOUT(69 DOWNTO 38);
 
 end ProcessorModel;

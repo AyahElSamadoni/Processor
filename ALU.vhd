@@ -32,7 +32,7 @@ Adder: AdderModule port map(OpCode, V1, CCRAdder, tempAdder);
 
 process(clk,aluEn)
 begin
-	if (falling_edge(clk)) then
+	if (rising_edge(clk)) then
 		--Remove first check
 		
 			if(OpCode = "00010" or OpCode = "00011" or OpCode = "00100"  or OpCode = "01001" or OpCode = "01010" or OpCode = "01011" or OpCode = "10011" or OpCode = "10100") then 
@@ -43,9 +43,9 @@ begin
 				else CCR <= "111";
 				end if; 
 			else
-				R <= "01100110011001100110011001100110"; 
+				R <= "00000000000000000000000000000000"; 
 				--R <= tempAdder; CCR <= CCRAdder;
-				CCR <= (others => '1');
+				CCR <= (others => '0');
 			end if;
 	end if;
 end process;
