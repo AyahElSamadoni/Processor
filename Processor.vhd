@@ -182,6 +182,7 @@ arithmeticLogicUnit: ALU port map(clk,IDEXOUT (112 downto 81), IDEXOUT(10 downto
 
 --EXMEMIN <= IDEXOUT(45 downto 43) & IDEXOUT(48 downto 46) & IDEXOUT(80 downto 49) & R & IDEXOUT(144 downto 113) & IDEXOUT(145) & IDEXOUT(154 downto 146);
 ayah1<=IDEXOUT(164 downto 163);
+
 EXMEMIN <= IDEXOUT(165) & IDEXOUT(164 downto 163) & IDEXOUT(154 downto 146) & IDEXOUT(145) & IDEXOUT(144 downto 113)& R & IDEXOUT(80 downto 49)& IDEXOUT(48 downto 46) & IDEXOUT(45 downto 43);
 EXMEMflushVal <= (others => '0');
 

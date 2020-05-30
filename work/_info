@@ -110,7 +110,7 @@ R12
 Aalumodel
 R2
 R3
-Z24 DEx4 work 3 alu 0 22 Q5M0f26=1:>6UjkIH8X;:0
+DEx4 work 3 alu 0 22 Q5M0f26=1:>6UjkIH8X;:0
 l29
 L16
 V?le3@8nWQ<cG]6?9iA;Qa1
@@ -127,12 +127,12 @@ R11
 R12
 Eccrlu
 R1
-Z25 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z24 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 R2
 R3
 R0
-Z26 8C:/Users/ayahs/Desktop/Processor/CCRLU.vhd
-Z27 FC:/Users/ayahs/Desktop/Processor/CCRLU.vhd
+Z25 8C:/Users/ayahs/Desktop/Processor/CCRLU.vhd
+Z26 FC:/Users/ayahs/Desktop/Processor/CCRLU.vhd
 l0
 L5
 VYUJ@Bb^o;Z^m<:LPU4_YQ2
@@ -142,13 +142,13 @@ R6
 R7
 !i10b 1
 R8
-Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/CCRLU.vhd|
-Z29 !s107 C:/Users/ayahs/Desktop/Processor/CCRLU.vhd|
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/CCRLU.vhd|
+Z28 !s107 C:/Users/ayahs/Desktop/Processor/CCRLU.vhd|
 !i113 1
 R11
 R12
 Accrlumodel
-R25
+R24
 R2
 R3
 DEx4 work 5 ccrlu 0 22 YUJ@Bb^o;Z^m<:LPU4_YQ2
@@ -161,19 +161,19 @@ R6
 R7
 !i10b 1
 R8
+R27
 R28
-R29
 !i113 1
 R11
 R12
 Ecounter
 R1
-R25
+R24
 R2
 R3
 R0
-Z30 8C:/Users/ayahs/Desktop/Processor/counter.vhd
-Z31 FC:/Users/ayahs/Desktop/Processor/counter.vhd
+Z29 8C:/Users/ayahs/Desktop/Processor/counter.vhd
+Z30 FC:/Users/ayahs/Desktop/Processor/counter.vhd
 l0
 L5
 V_AIE]AV>a_izk9Dzk@BTU0
@@ -183,13 +183,13 @@ R6
 R7
 !i10b 1
 R8
-Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/counter.vhd|
-Z33 !s107 C:/Users/ayahs/Desktop/Processor/counter.vhd|
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/counter.vhd|
+Z32 !s107 C:/Users/ayahs/Desktop/Processor/counter.vhd|
 !i113 1
 R11
 R12
 Amy_counter
-R25
+R24
 R2
 R3
 DEx4 work 7 counter 0 22 _AIE]AV>a_izk9Dzk@BTU0
@@ -202,19 +202,19 @@ R6
 R7
 !i10b 1
 R8
+R31
 R32
-R33
 !i113 1
 R11
 R12
 Ecu
-Z34 w1590528362
-R25
+Z33 w1590528362
+R24
 R2
 R3
 R0
-Z35 8C:\Users\ayahs\Desktop\Processor\CU.vhd
-Z36 FC:\Users\ayahs\Desktop\Processor\CU.vhd
+Z34 8C:\Users\ayahs\Desktop\Processor\CU.vhd
+Z35 FC:\Users\ayahs\Desktop\Processor\CU.vhd
 l0
 L5
 V=DgcFcYZ73A^5W6JY[on[0
@@ -224,13 +224,13 @@ R6
 R7
 !i10b 1
 R8
-Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\CU.vhd|
-Z38 !s107 C:\Users\ayahs\Desktop\Processor\CU.vhd|
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\CU.vhd|
+Z37 !s107 C:\Users\ayahs\Desktop\Processor\CU.vhd|
 !i113 1
 R11
 R12
 Acumodel
-R25
+R24
 R2
 R3
 DEx4 work 2 cu 0 22 =DgcFcYZ73A^5W6JY[on[0
@@ -243,19 +243,19 @@ R6
 R7
 !i10b 1
 R8
+R36
 R37
-R38
 !i113 1
 R11
 R12
 Edatamemory
 R1
-R25
+R24
 R2
 R3
 R0
-Z39 8C:/Users/ayahs/Desktop/Processor/dataMemory.vhd
-Z40 FC:/Users/ayahs/Desktop/Processor/dataMemory.vhd
+Z38 8C:/Users/ayahs/Desktop/Processor/dataMemory.vhd
+Z39 FC:/Users/ayahs/Desktop/Processor/dataMemory.vhd
 l0
 L5
 V>H^[UcAV]LU1;JcU8UQ>43
@@ -265,13 +265,13 @@ R6
 R7
 !i10b 1
 R8
-Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/dataMemory.vhd|
-Z42 !s107 C:/Users/ayahs/Desktop/Processor/dataMemory.vhd|
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/dataMemory.vhd|
+Z41 !s107 C:/Users/ayahs/Desktop/Processor/dataMemory.vhd|
 !i113 1
 R11
 R12
 Adatamemorymodel
-R25
+R24
 R2
 R3
 DEx4 work 10 datamemory 0 22 >H^[UcAV]LU1;JcU8UQ>43
@@ -284,8 +284,8 @@ R6
 R7
 !i10b 1
 R8
+R40
 R41
-R42
 !i113 1
 R11
 R12
@@ -294,8 +294,8 @@ R1
 R2
 R3
 R0
-Z43 8C:/Users/ayahs/Desktop/Processor/Decoder.vhd
-Z44 FC:/Users/ayahs/Desktop/Processor/Decoder.vhd
+Z42 8C:/Users/ayahs/Desktop/Processor/Decoder.vhd
+Z43 FC:/Users/ayahs/Desktop/Processor/Decoder.vhd
 l0
 L4
 V_LLeVMR@E7[Q>NY@:3HSC2
@@ -305,8 +305,8 @@ R6
 R7
 !i10b 1
 R8
-Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/Decoder.vhd|
-Z46 !s107 C:/Users/ayahs/Desktop/Processor/Decoder.vhd|
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/Decoder.vhd|
+Z45 !s107 C:/Users/ayahs/Desktop/Processor/Decoder.vhd|
 !i113 1
 R11
 R12
@@ -323,8 +323,8 @@ R6
 R7
 !i10b 1
 R8
+R44
 R45
-R46
 !i113 1
 R11
 R12
@@ -333,8 +333,8 @@ R1
 R2
 R3
 R0
-Z47 8C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd
-Z48 FC:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd
+Z46 8C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd
+Z47 FC:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd
 l0
 L4
 V10DfZBFDRIR7E2coK?@7I0
@@ -344,8 +344,8 @@ R6
 R7
 !i10b 1
 R8
-Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd|
-Z50 !s107 C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd|
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd|
+Z49 !s107 C:/Users/ayahs/Desktop/Processor/GenericBuffer.vhd|
 !i113 1
 R11
 R12
@@ -362,19 +362,19 @@ R6
 R7
 !i10b 1
 R8
+R48
 R49
-R50
 !i113 1
 R11
 R12
 Einstmem
 R1
-R25
+R24
 R2
 R3
 R0
-Z51 8C:/Users/ayahs/Desktop/Processor/instMem.vhd
-Z52 FC:/Users/ayahs/Desktop/Processor/instMem.vhd
+Z50 8C:/Users/ayahs/Desktop/Processor/instMem.vhd
+Z51 FC:/Users/ayahs/Desktop/Processor/instMem.vhd
 l0
 L5
 Vcc_U=^7jhP8L6]GTW<[Uf0
@@ -384,13 +384,13 @@ R6
 R7
 !i10b 1
 R8
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/instMem.vhd|
-Z54 !s107 C:/Users/ayahs/Desktop/Processor/instMem.vhd|
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/instMem.vhd|
+Z53 !s107 C:/Users/ayahs/Desktop/Processor/instMem.vhd|
 !i113 1
 R11
 R12
 Ainstmemmodel
-R25
+R24
 R2
 R3
 DEx4 work 7 instmem 0 22 cc_U=^7jhP8L6]GTW<[Uf0
@@ -403,8 +403,8 @@ R6
 R7
 !i10b 1
 R8
+R52
 R53
-R54
 !i113 1
 R11
 R12
@@ -413,8 +413,8 @@ R1
 R2
 R3
 R0
-Z55 8C:/Users/ayahs/Desktop/Processor/flipflop.vhd
-Z56 FC:/Users/ayahs/Desktop/Processor/flipflop.vhd
+Z54 8C:/Users/ayahs/Desktop/Processor/flipflop.vhd
+Z55 FC:/Users/ayahs/Desktop/Processor/flipflop.vhd
 l0
 L4
 V`G;RC8>bL9JQk<XPD[@Ue2
@@ -424,8 +424,8 @@ R6
 R7
 !i10b 1
 R8
-Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/flipflop.vhd|
-Z58 !s107 C:/Users/ayahs/Desktop/Processor/flipflop.vhd|
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/flipflop.vhd|
+Z57 !s107 C:/Users/ayahs/Desktop/Processor/flipflop.vhd|
 !i113 1
 R11
 R12
@@ -442,8 +442,8 @@ R6
 R7
 !i10b 1
 R8
+R56
 R57
-R58
 !i113 1
 R11
 R12
@@ -452,8 +452,8 @@ R1
 R2
 R3
 R0
-Z59 8C:/Users/ayahs/Desktop/Processor/nAdder.vhd
-Z60 FC:/Users/ayahs/Desktop/Processor/nAdder.vhd
+Z58 8C:/Users/ayahs/Desktop/Processor/nAdder.vhd
+Z59 FC:/Users/ayahs/Desktop/Processor/nAdder.vhd
 l0
 L5
 VO6E6lnz;RciQJ7loZ;h_z0
@@ -463,8 +463,8 @@ R6
 R7
 !i10b 1
 R8
-Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/nAdder.vhd|
-Z62 !s107 C:/Users/ayahs/Desktop/Processor/nAdder.vhd|
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/nAdder.vhd|
+Z61 !s107 C:/Users/ayahs/Desktop/Processor/nAdder.vhd|
 !i113 1
 R11
 R12
@@ -481,8 +481,8 @@ R6
 R7
 !i10b 1
 R8
+R60
 R61
-R62
 !i113 1
 R11
 R12
@@ -491,19 +491,19 @@ R1
 R2
 R3
 R0
-Z63 8C:/Users/ayahs/Desktop/Processor/NDFF.vhd
-Z64 FC:/Users/ayahs/Desktop/Processor/NDFF.vhd
+Z62 8C:/Users/ayahs/Desktop/Processor/NDFF.vhd
+Z63 FC:/Users/ayahs/Desktop/Processor/NDFF.vhd
 l0
 L5
 V>K<=TIKA4?23TkzK857`Y1
 !s100 W4hWl;69LmM`M2bj2DI;63
 R6
 32
-Z65 !s110 1590528964
+Z64 !s110 1590528964
 !i10b 1
-Z66 !s108 1590528964.000000
-Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/NDFF.vhd|
-Z68 !s107 C:/Users/ayahs/Desktop/Processor/NDFF.vhd|
+Z65 !s108 1590528964.000000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/NDFF.vhd|
+Z67 !s107 C:/Users/ayahs/Desktop/Processor/NDFF.vhd|
 !i113 1
 R11
 R12
@@ -517,38 +517,38 @@ V>9Da0>Ozde^:R73>eo^O@1
 !s100 o@^>j7KUE7CaiC?<]o2V`0
 R6
 32
-R65
+R64
 !i10b 1
+R65
 R66
 R67
-R68
 !i113 1
 R11
 R12
 Epccu
 R1
-R25
+R24
 R2
 R3
 R0
-Z69 8C:\Users\ayahs\Desktop\Processor\pcCu.vhd
-Z70 FC:\Users\ayahs\Desktop\Processor\pcCu.vhd
+Z68 8C:\Users\ayahs\Desktop\Processor\pcCu.vhd
+Z69 FC:\Users\ayahs\Desktop\Processor\pcCu.vhd
 l0
 L5
 VP`::<K@cKi@UJXNmI0DmK1
 !s100 aX1C=Qi[9>ISdAzI]h9^o2
 R6
 32
-R65
+R64
 !i10b 1
-R66
-Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\pcCu.vhd|
-Z72 !s107 C:\Users\ayahs\Desktop\Processor\pcCu.vhd|
+R65
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\pcCu.vhd|
+Z71 !s107 C:\Users\ayahs\Desktop\Processor\pcCu.vhd|
 !i113 1
 R11
 R12
 Apccumodel
-R25
+R24
 R2
 R3
 DEx4 work 4 pccu 0 22 P`::<K@cKi@UJXNmI0DmK1
@@ -558,79 +558,79 @@ VHZnii00MJ1m>ZlE]j6TIX1
 !s100 k=?=Pl[iKL`5MH:3=X=Qc0
 R6
 32
-R65
+R64
 !i10b 1
-R66
+R65
+R70
 R71
-R72
 !i113 1
 R11
 R12
 Eprocessor
-Z73 w1590522027
-R25
+Z72 w1590539490
+R24
 R2
 R3
 R0
-Z74 8C:\Users\ayahs\Desktop\Processor\Processor.vhd
-Z75 FC:\Users\ayahs\Desktop\Processor\Processor.vhd
+Z73 8C:\Users\ayahs\Desktop\Processor\Processor.vhd
+Z74 FC:\Users\ayahs\Desktop\Processor\Processor.vhd
 l0
 L5
 VUe[b`NNad4DPD[<02k1Io0
 !s100 F=4alOTNAFRJ1MW`8GOQi3
 R6
 32
-R65
+Z75 !s110 1590539533
 !i10b 1
-R66
-Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\Processor.vhd|
-Z77 !s107 C:\Users\ayahs\Desktop\Processor\Processor.vhd|
+Z76 !s108 1590539533.000000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\Processor.vhd|
+Z78 !s107 C:\Users\ayahs\Desktop\Processor\Processor.vhd|
 !i113 1
 R11
 R12
 Aprocessormodel
-R25
+R24
 R2
 R3
-DEx4 work 9 processor 0 22 Ue[b`NNad4DPD[<02k1Io0
+Z79 DEx4 work 9 processor 0 22 Ue[b`NNad4DPD[<02k1Io0
 l135
 L13
-Vhd5<Ki1S9mFD>6JA^bH=[0
-!s100 Ulj_DdB5N4H@8l4fjNfQk2
+Vi>C<T@`?4?fDb;;IS3KM30
+!s100 mP@mNTaV1b`K=n233`m7@2
 R6
 32
-R65
+R75
 !i10b 1
-R66
 R76
 R77
+R78
 !i113 1
 R11
 R12
 Eram
 R1
-R25
+R24
 R2
 R3
 R0
-Z78 8C:/Users/ayahs/Desktop/Processor/Ram.vhd
-Z79 FC:/Users/ayahs/Desktop/Processor/Ram.vhd
+Z80 8C:/Users/ayahs/Desktop/Processor/Ram.vhd
+Z81 FC:/Users/ayahs/Desktop/Processor/Ram.vhd
 l0
 L5
 VVfOV[A^64lGaLGAdTMHTf2
 !s100 _L@=fig0j38bB>Kf>neB23
 R6
 32
-R65
+R64
 !i10b 1
-R66
-Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/Ram.vhd|
-Z81 !s107 C:/Users/ayahs/Desktop/Processor/Ram.vhd|
+R65
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ayahs/Desktop/Processor/Ram.vhd|
+Z83 !s107 C:/Users/ayahs/Desktop/Processor/Ram.vhd|
 !i113 1
 R11
 R12
 Async_ram_a
-R25
+R24
 R2
 R3
 DEx4 work 3 ram 0 22 VfOV[A^64lGaLGAdTMHTf2
@@ -640,38 +640,38 @@ V?[WI[f^VPf^FTP^_G@Gij1
 !s100 ;Co?a8;cg0]90;8F@1kEI3
 R6
 32
-R65
+R64
 !i10b 1
-R66
-R80
-R81
+R65
+R82
+R83
 !i113 1
 R11
 R12
 Eregfile
-Z82 w1590528953
-R25
+Z84 w1590528953
+R24
 R2
 R3
 R0
-Z83 8C:\Users\ayahs\Desktop\Processor\RegFile.vhd
-Z84 FC:\Users\ayahs\Desktop\Processor\RegFile.vhd
+Z85 8C:\Users\ayahs\Desktop\Processor\RegFile.vhd
+Z86 FC:\Users\ayahs\Desktop\Processor\RegFile.vhd
 l0
 L5
 VFY<AgC1d8miSi9EG>>8G[0
 !s100 k5G45L@Z31V:cIj1=C?]`2
 R6
 32
-R65
+R64
 !i10b 1
-R66
-Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\RegFile.vhd|
-Z86 !s107 C:\Users\ayahs\Desktop\Processor\RegFile.vhd|
+R65
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\ayahs\Desktop\Processor\RegFile.vhd|
+Z88 !s107 C:\Users\ayahs\Desktop\Processor\RegFile.vhd|
 !i113 1
 R11
 R12
 Areg_architecture
-R25
+R24
 R2
 R3
 DEx4 work 7 regfile 0 22 FY<AgC1d8miSi9EG>>8G[0
@@ -681,11 +681,11 @@ V`M0@>TVKLd7Gh0UDTF^501
 !s100 K6Vbba2kffV?GZodk^_TC3
 R6
 32
-R65
+R64
 !i10b 1
-R66
-R85
-R86
+R65
+R87
+R88
 !i113 1
 R11
 R12
