@@ -1,0 +1,23 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/Processor/instructionMemory/ram
+// format=bin addressradix=h dataradix=b version=1.0 wordsperline=1
+//most then least ba cb 
+    @0 0000000000010000
+    @1 0000000000000000
+    @2 0000000100000000
+    @3 0000000000000000
+    @4 0000000000000000
+    @5 0000000000000000
+    @6 0000000000000000
+    @7 0000000000000000
+    @8 0000000000000000
+    @9 0000000000000000
+    @a 0000000000000000
+    @b 0000000000000000
+    @c 0000000000000000
+    @d 0000000000000000
+    @e 0000000000000000
+    @f 0000000000000000
+   @10 0001100100000100 	
+   @11 0010100100000000 
+   

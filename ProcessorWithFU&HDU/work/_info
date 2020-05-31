@@ -1,0 +1,1177 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/pc/Desktop/uni/Computer Architetcture/Archi/Archi EHNA
+Eadder
+Z0 w1589487218
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya
+Z4 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/adder.vhd
+Z5 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/adder.vhd
+l0
+L4
+VO<^K`XVJh=f5=7aTQR@1Q3
+!s100 Kz2Ocb]I?YO=lg>Z7Ce9;1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1590910686
+!i10b 1
+Z8 !s108 1590910685.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/adder.vhd|
+Z10 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aaddermodel
+R1
+R2
+DEx4 work 5 adder 0 22 O<^K`XVJh=f5=7aTQR@1Q3
+l11
+L10
+VVz]P10j5g4Um9^nT>ii:k1
+!s100 hRIhMT<U8mBmNYKE>Ukm_3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eaddermodule
+Z13 w1590555478
+R1
+R2
+R3
+Z14 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/AdderModule.vhd
+Z15 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/AdderModule.vhd
+l0
+L4
+VTi2c6]^:NNVKe7]M8bO[S1
+!s100 9W3feEYS^5n]eMf?1eMJB0
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1590910686.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/AdderModule.vhd|
+Z18 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/AdderModule.vhd|
+!i113 1
+R11
+R12
+Aaddermodulemodel
+R1
+R2
+DEx4 work 11 addermodule 0 22 Ti2c6]^:NNVKe7]M8bO[S1
+l34
+L13
+VaNn?dSTCTiN:eE]L<JLB40
+!s100 d<TdF^M2do;c`=ng[mA1b3
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12
+Ealu
+Z19 w1590865961
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z21 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALU.vhd
+Z22 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALU.vhd
+l0
+L6
+Vda]I]jT`o29TjL@7n42:e0
+!s100 ViFD>Wih@UOE;:KGDPcWP3
+R6
+32
+Z23 !s110 1590910687
+!i10b 1
+R16
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALU.vhd|
+Z25 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALU.vhd|
+!i113 1
+R11
+R12
+Aalumodel
+R20
+R1
+R2
+DEx4 work 3 alu 0 22 da]I]jT`o29TjL@7n42:e0
+l73
+L21
+VNN4O=b@NAWnEoQG0RZ2mE3
+!s100 dSVZZBP^BjXG:^h`VQCTH3
+R6
+32
+R23
+!i10b 1
+R16
+R24
+R25
+!i113 1
+R11
+R12
+Ealuccr
+Z26 w1590555530
+R20
+R1
+R2
+R3
+Z27 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALUCCR.vhd
+Z28 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALUCCR.vhd
+l0
+L5
+VJl8D5CfCO__9KUcC^cH@@0
+!s100 M9elK;W_[1b?i9m]TAEU60
+R6
+32
+R23
+!i10b 1
+Z29 !s108 1590910687.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALUCCR.vhd|
+Z31 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/ALUCCR.vhd|
+!i113 1
+R11
+R12
+Aaluccrmodel
+R20
+R1
+R2
+DEx4 work 6 aluccr 0 22 Jl8D5CfCO__9KUcC^cH@@0
+l14
+L12
+ViBKf>BjF`FFYnS3a8I8J[1
+!s100 ^3W]B3?dT9j9c_bY:j<<G2
+R6
+32
+R23
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R11
+R12
+Eccrlu
+Z32 w1590559058
+R20
+R1
+R2
+R3
+Z33 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CCRLU.vhd
+Z34 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CCRLU.vhd
+l0
+L5
+VU>DQ[kM6mTKQ4I<_zL>4;1
+!s100 56MfZBS3G`HR[iWY;JBKT1
+R6
+32
+R23
+!i10b 1
+R29
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CCRLU.vhd|
+Z36 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CCRLU.vhd|
+!i113 1
+R11
+R12
+Accrlumodel
+R20
+R1
+R2
+DEx4 work 5 ccrlu 0 22 U>DQ[kM6mTKQ4I<_zL>4;1
+l12
+L11
+VHRzAe2HZY`_b19<V7BBcQ0
+!s100 >B5ENb?M5`[g<l5aD[HjV2
+R6
+32
+R23
+!i10b 1
+R29
+R35
+R36
+!i113 1
+R11
+R12
+Ecounter
+Z37 w1590889386
+R20
+R1
+R2
+R3
+Z38 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/counter.vhd
+Z39 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/counter.vhd
+l0
+L5
+V0g^]Ga;zaD;D=F1EiJo5O1
+!s100 0NFK;9TVILzSQeXAiL??J0
+R6
+32
+R23
+!i10b 1
+R29
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/counter.vhd|
+Z41 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/counter.vhd|
+!i113 1
+R11
+R12
+Amy_counter
+R20
+R1
+R2
+DEx4 work 7 counter 0 22 0g^]Ga;zaD;D=F1EiJo5O1
+l14
+L11
+VcP3R81Z]6cbN7]=a6ZU6h2
+!s100 NTj]1h2VCH=OilTQn@nLG3
+R6
+32
+R23
+!i10b 1
+R29
+R40
+R41
+!i113 1
+R11
+R12
+Ecu
+Z42 w1590863491
+R20
+R1
+R2
+R3
+Z43 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CU.vhd
+Z44 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CU.vhd
+l0
+L5
+VneNhg6=0MUoM4jaE3ceRe1
+!s100 eOCO@OIF`bMEUGmnEloba2
+R6
+32
+Z45 !s110 1590910688
+!i10b 1
+Z46 !s108 1590910688.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CU.vhd|
+Z48 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/CU.vhd|
+!i113 1
+R11
+R12
+Acumodel
+R20
+R1
+R2
+DEx4 work 2 cu 0 22 neNhg6=0MUoM4jaE3ceRe1
+l17
+L16
+Vm8AFIi6zjh_QHi]f3H@O72
+!s100 ?Bon0P;9d21bK];3Z?zSG1
+R6
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R11
+R12
+Edatamemory
+Z49 w1590861434
+R20
+R1
+R2
+R3
+Z50 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/dataMemory.vhd
+Z51 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/dataMemory.vhd
+l0
+L5
+V2>Cnd]^hX^CU9zoeA_MHQ3
+!s100 BiS`Bhf=O40kned=TLTcz3
+R6
+32
+R45
+!i10b 1
+R46
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/dataMemory.vhd|
+Z53 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/dataMemory.vhd|
+!i113 1
+R11
+R12
+Adatamemorymodel
+R20
+R1
+R2
+DEx4 work 10 datamemory 0 22 2>Cnd]^hX^CU9zoeA_MHQ3
+l37
+L23
+V_7[Fdn@lf]MkL??:>Pd5I2
+!s100 AY06HGB;P43c1En3l<zj52
+R6
+32
+R45
+!i10b 1
+R46
+R52
+R53
+!i113 1
+R11
+R12
+Edecoder
+R0
+R1
+R2
+R3
+Z54 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Decoder.vhd
+Z55 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Decoder.vhd
+l0
+L4
+V_LLeVMR@E7[Q>NY@:3HSC2
+!s100 ?jh?113mU[=>mo;`GfanE2
+R6
+32
+Z56 !s110 1590910689
+!i10b 1
+R46
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Decoder.vhd|
+Z58 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Decoder.vhd|
+!i113 1
+R11
+R12
+Amodeldec
+R1
+R2
+DEx4 work 7 decoder 0 22 _LLeVMR@E7[Q>NY@:3HSC2
+l15
+L11
+VU?I8G33C:YKT;BTG;neoE2
+!s100 7Y;iKCifc@b9PD4mR^zEz2
+R6
+32
+R56
+!i10b 1
+R46
+R57
+R58
+!i113 1
+R11
+R12
+Efu
+Z59 w1590727542
+R1
+R2
+R3
+Z60 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/FU.vhd
+Z61 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/FU.vhd
+l0
+L4
+VLP0UZNT5QlG>7bY[=PD;n3
+!s100 D58nohS6T_lz>o8E8]Oh_2
+R6
+32
+R56
+!i10b 1
+Z62 !s108 1590910689.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/FU.vhd|
+Z64 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/FU.vhd|
+!i113 1
+R11
+R12
+Afumodel
+R1
+R2
+DEx4 work 2 fu 0 22 LP0UZNT5QlG>7bY[=PD;n3
+l20
+L19
+V[@S_<NE5jz]Rie5l9e[E33
+!s100 ]BPco36RmghBc6dz4bP3Q3
+R6
+32
+R56
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R11
+R12
+Egenericbuffer
+Z65 w1590709800
+R1
+R2
+R3
+Z66 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/GenericBuffer.vhd
+Z67 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/GenericBuffer.vhd
+l0
+L4
+V10DfZBFDRIR7E2coK?@7I0
+!s100 PYcki[RjO6THmA3QY?7R73
+R6
+32
+R56
+!i10b 1
+R62
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/GenericBuffer.vhd|
+Z69 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/GenericBuffer.vhd|
+!i113 1
+R11
+R12
+Agenericbuffermodel
+R1
+R2
+DEx4 work 13 genericbuffer 0 22 10DfZBFDRIR7E2coK?@7I0
+l15
+L14
+Vo@E1VfEZ1F;1BN6AEZAa<2
+!s100 ?WL7dG>bRoA>7iZk^Z1[a0
+R6
+32
+R56
+!i10b 1
+R62
+R68
+R69
+!i113 1
+R11
+R12
+Ehdu
+Z70 w1590889979
+R1
+R2
+R3
+Z71 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/HDU.vhd
+Z72 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/HDU.vhd
+l0
+L4
+VYP:7mjUlQk^ShGCYgj9E02
+!s100 W?PPVF73_LV1l:=44IfHm2
+R6
+32
+R56
+!i10b 1
+R62
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/HDU.vhd|
+Z74 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/HDU.vhd|
+!i113 1
+R11
+R12
+Ahdumodel
+R1
+R2
+DEx4 work 3 hdu 0 22 YP:7mjUlQk^ShGCYgj9E02
+l13
+L12
+VeBZ;Za844@C0FB[4a7^@H3
+!s100 YGmQ`RD3^SiB5HY9[A]X43
+R6
+32
+R56
+!i10b 1
+R62
+R73
+R74
+!i113 1
+R11
+R12
+Einstmem
+Z75 w1590121227
+R20
+R1
+R2
+R3
+Z76 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/instMem.vhd
+Z77 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/instMem.vhd
+l0
+L5
+Vcc_U=^7jhP8L6]GTW<[Uf0
+!s100 lZT4[D=mCCzRdOz]ZTdR^1
+R6
+32
+Z78 !s110 1590910690
+!i10b 1
+Z79 !s108 1590910690.000000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/instMem.vhd|
+Z81 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/instMem.vhd|
+!i113 1
+R11
+R12
+Ainstmemmodel
+R20
+R1
+R2
+DEx4 work 7 instmem 0 22 cc_U=^7jhP8L6]GTW<[Uf0
+l18
+L12
+Via7ESkg>W9>5UgOMg^l?M2
+!s100 lRokdmTbneI7;djn=oQeM2
+R6
+32
+R78
+!i10b 1
+R79
+R80
+R81
+!i113 1
+R11
+R12
+Eju
+Z82 w1590556340
+R20
+R1
+R2
+Z83 dC:/Users/pc/Desktop/uni/Computer Architetcture/Reem's Version
+Z84 8C:/Users/pc/Desktop/Sondosa/JU.vhd
+Z85 FC:/Users/pc/Desktop/Sondosa/JU.vhd
+l0
+L5
+VJbbQF3Zi_gNZd_EfLIiZS3
+!s100 cE;F?8ZT:CQ=1RiU:mo^k1
+R6
+32
+!s110 1590557716
+!i10b 1
+!s108 1590557716.000000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/Sondosa/JU.vhd|
+Z87 !s107 C:/Users/pc/Desktop/Sondosa/JU.vhd|
+!i113 1
+R11
+R12
+Ajumodel
+R20
+R1
+R2
+DEx4 work 2 ju 0 22 V_T;d>1SmUIk2MP>Zi0cI0
+l15
+L14
+V1N8[j^:jIAO_BK`izZhl<0
+!s100 ]gIWPbeDK95l3l>0S6k?k3
+R6
+32
+!s110 1590555503
+!i10b 1
+!s108 1590555503.000000
+R86
+R87
+!i113 1
+R11
+R12
+Ejump
+Z88 w1590557827
+R20
+R1
+R2
+R83
+Z89 8C:/Users/pc/Desktop/Sondosa/Jump.vhd
+Z90 FC:/Users/pc/Desktop/Sondosa/Jump.vhd
+l0
+L5
+V;8fd^:_:RWMRI:h]bSK4P0
+!s100 bOVQC<XSnN?Y`?0Qi4^AA0
+R6
+32
+Z91 !s110 1590558017
+!i10b 1
+Z92 !s108 1590558016.000000
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/Sondosa/Jump.vhd|
+Z94 !s107 C:/Users/pc/Desktop/Sondosa/Jump.vhd|
+!i113 1
+R11
+R12
+Ajump_architecture
+R20
+R1
+R2
+DEx4 work 4 jump 0 22 ;8fd^:_:RWMRI:h]bSK4P0
+l22
+L20
+V<AzIZm]@KhDRQAVh1@3Y13
+!s100 gRV4Aeo3ZBE0A1VzZK=;=0
+R6
+32
+R91
+!i10b 1
+R92
+R93
+R94
+!i113 1
+R11
+R12
+Ejumpunit
+Z95 w1590598698
+R20
+R1
+R2
+R3
+Z96 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/JumpUnit.vhd
+Z97 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/JumpUnit.vhd
+l0
+L5
+VAA6ZmA_FOzRPJc5Ug1khj1
+!s100 Y30dF;RHGNi`2g8>Z]^B03
+R6
+32
+R78
+!i10b 1
+R79
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/JumpUnit.vhd|
+Z99 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/JumpUnit.vhd|
+!i113 1
+R11
+R12
+Ajumpunitmodel
+R20
+R1
+R2
+DEx4 work 8 jumpunit 0 22 AA6ZmA_FOzRPJc5Ug1khj1
+l17
+L16
+VBBiY>SS`ll_iW812e1<B@3
+!s100 i]769nEU^864j^`GnRH0S0
+R6
+32
+R78
+!i10b 1
+R79
+R98
+R99
+!i113 1
+R11
+R12
+Elu
+Z100 w1590555464
+R20
+R1
+R2
+R3
+Z101 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/LU.vhd
+Z102 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/LU.vhd
+l0
+L5
+VT3zO1a:PKB_zBWBJ:h>og0
+!s100 1;HT6:4XM`<TGY7>;Qlm60
+R6
+32
+R78
+!i10b 1
+R79
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/LU.vhd|
+Z104 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/LU.vhd|
+!i113 1
+R11
+R12
+Alumodel
+R20
+R1
+R2
+DEx4 work 2 lu 0 22 T3zO1a:PKB_zBWBJ:h>og0
+l26
+L14
+V:Q1TJGEnj^I?dX[IFI64o2
+!s100 @_b6nRJeY_e^QLk07[j^80
+R6
+32
+R78
+!i10b 1
+R79
+R103
+R104
+!i113 1
+R11
+R12
+Ememunit
+Z105 w1590585427
+R1
+R2
+R3
+Z106 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/memUnit.vhd
+Z107 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/memUnit.vhd
+l0
+L4
+VmMH4nnhPc>G8L]2?_n[zf2
+!s100 UP=bkaYo>NNE?bBo^9_8z1
+R6
+32
+Z108 !s110 1590910691
+!i10b 1
+Z109 !s108 1590910691.000000
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/memUnit.vhd|
+Z111 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/memUnit.vhd|
+!i113 1
+R11
+R12
+Amemunitmodel
+R1
+R2
+DEx4 work 7 memunit 0 22 mMH4nnhPc>G8L]2?_n[zf2
+l26
+L13
+V3JW9a^E3CZlFGM[f3M>h80
+!s100 0JaM9n5l?P@k0z3^:8Qg21
+R6
+32
+R108
+!i10b 1
+R109
+R110
+R111
+!i113 1
+R11
+R12
+Emyn_dff
+Z112 w1582792680
+R1
+R2
+R3
+Z113 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/flipflop.vhd
+Z114 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/flipflop.vhd
+l0
+L4
+V`G;RC8>bL9JQk<XPD[@Ue2
+!s100 ?N^[`^9=U<afof@C0k2bo2
+R6
+32
+R56
+!i10b 1
+R62
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/flipflop.vhd|
+Z116 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/flipflop.vhd|
+!i113 1
+R11
+R12
+Aa_myn_dff
+R1
+R2
+DEx4 work 7 myn_dff 0 22 `G;RC8>bL9JQk<XPD[@Ue2
+l13
+L12
+Vo4eQnCzANF9:<H8Cf54650
+!s100 I[[]4jb3oj:goLoAB>6SU2
+R6
+32
+R56
+!i10b 1
+R62
+R115
+R116
+!i113 1
+R11
+R12
+Enadder
+R0
+R1
+R2
+R3
+Z117 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/nAdder.vhd
+Z118 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/nAdder.vhd
+l0
+L5
+VO6E6lnz;RciQJ7loZ;h_z0
+!s100 i]DOf9LVJT]e0@6AD?KH[0
+R6
+32
+R108
+!i10b 1
+R109
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/nAdder.vhd|
+Z120 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/nAdder.vhd|
+!i113 1
+R11
+R12
+Amodel
+R1
+R2
+DEx4 work 6 nadder 0 22 O6E6lnz;RciQJ7loZ;h_z0
+l24
+L14
+VM;`FFWmYGf=JcA1AO1zG<2
+!s100 1m3O2VLXnDDh=kK2>^b:_2
+R6
+32
+R108
+!i10b 1
+R109
+R119
+R120
+!i113 1
+R11
+R12
+Endff
+R0
+R1
+R2
+R3
+Z121 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/NDFF.vhd
+Z122 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/NDFF.vhd
+l0
+L5
+V>K<=TIKA4?23TkzK857`Y1
+!s100 W4hWl;69LmM`M2bj2DI;63
+R6
+32
+R108
+!i10b 1
+R109
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/NDFF.vhd|
+Z124 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/NDFF.vhd|
+!i113 1
+R11
+R12
+Amodelndff
+R1
+R2
+DEx4 work 4 ndff 0 22 >K<=TIKA4?23TkzK857`Y1
+l15
+L14
+V>9Da0>Ozde^:R73>eo^O@1
+!s100 o@^>j7KUE7CaiC?<]o2V`0
+R6
+32
+R108
+!i10b 1
+R109
+R123
+R124
+!i113 1
+R11
+R12
+Epccu
+Z125 w1590887268
+R20
+R1
+R2
+R3
+Z126 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/pcCu.vhd
+Z127 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/pcCu.vhd
+l0
+L5
+VP`::<K@cKi@UJXNmI0DmK1
+!s100 aX1C=Qi[9>ISdAzI]h9^o2
+R6
+32
+Z128 !s110 1590910692
+!i10b 1
+Z129 !s108 1590910692.000000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/pcCu.vhd|
+Z131 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/pcCu.vhd|
+!i113 1
+R11
+R12
+Apccumodel
+R20
+R1
+R2
+DEx4 work 4 pccu 0 22 P`::<K@cKi@UJXNmI0DmK1
+l32
+L18
+VlKB>iW:e6O>aXiPaAI[Rn2
+!s100 lU10e1S]EVXX?3_U>PWk@0
+R6
+32
+R128
+!i10b 1
+R129
+R130
+R131
+!i113 1
+R11
+R12
+Eprocessor
+Z132 w1590891748
+R20
+R1
+R2
+R3
+Z133 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Processor.vhd
+Z134 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Processor.vhd
+l0
+L5
+VUe[b`NNad4DPD[<02k1Io0
+!s100 F=4alOTNAFRJ1MW`8GOQi3
+R6
+32
+R128
+!i10b 1
+R129
+Z135 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Processor.vhd|
+Z136 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Processor.vhd|
+!i113 1
+R11
+R12
+Aprocessormodel
+R20
+R1
+R2
+DEx4 work 9 processor 0 22 Ue[b`NNad4DPD[<02k1Io0
+l201
+L13
+VEM8GbNB9Fo^9mf4;_]2nf0
+!s100 AmBiV86`<0GK>;a0FP9IZ0
+R6
+32
+R128
+!i10b 1
+R129
+R135
+R136
+!i113 1
+R11
+R12
+Eram
+Z137 w1590869739
+R20
+R1
+R2
+R3
+Z138 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Ram.vhd
+Z139 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Ram.vhd
+l0
+L5
+V?VYngzT;nN1]n7Go0l4?a2
+!s100 Wlg:5lhL8>e:CSfnkS:H80
+R6
+32
+R128
+!i10b 1
+R129
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Ram.vhd|
+Z141 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/Ram.vhd|
+!i113 1
+R11
+R12
+Async_ram_a
+R20
+R1
+R2
+DEx4 work 3 ram 0 22 ?VYngzT;nN1]n7Go0l4?a2
+l19
+L14
+VL6IPEP:zD?>kcz<MN3jMU2
+!s100 B_IYEk1>3de<3fFj;5Ac:1
+R6
+32
+R128
+!i10b 1
+R129
+R140
+R141
+!i113 1
+R11
+R12
+Eregfile
+Z142 w1590861944
+R20
+R1
+R2
+R3
+Z143 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/RegFile.vhd
+Z144 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/RegFile.vhd
+l0
+L5
+Vb2R=<aNiESK7[mlEYodLl1
+!s100 S5:z]o<RgSRQSe6e56mQ40
+R6
+32
+R128
+!i10b 1
+R129
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/RegFile.vhd|
+Z146 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/RegFile.vhd|
+!i113 1
+R11
+R12
+Areg_architecture
+R20
+R1
+R2
+DEx4 work 7 regfile 0 22 b2R=<aNiESK7[mlEYodLl1
+l50
+L34
+V]WZOmPkkb5K8`z3N4ocX42
+!s100 7YSnk;BkgDHkchdOcN64N3
+R6
+32
+R128
+!i10b 1
+R129
+R145
+R146
+!i113 1
+R11
+R12
+Esp
+Z147 w1590861395
+R20
+R1
+R2
+R3
+Z148 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/sp.vhd
+Z149 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/sp.vhd
+l0
+L5
+VH;4UiOL<gUU@kcA1GaKo61
+!s100 [h`VhUUR=:X[NzdEJ_LT02
+R6
+32
+Z150 !s110 1590910693
+!i10b 1
+Z151 !s108 1590910693.000000
+Z152 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/sp.vhd|
+Z153 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/sp.vhd|
+!i113 1
+R11
+R12
+Aspmodel
+R20
+R1
+R2
+DEx4 work 2 sp 0 22 H;4UiOL<gUU@kcA1GaKo61
+l14
+L13
+VMm42laLI_I[7`7>Mc2Ydo0
+!s100 Q1l[Tm_GGEI=OL63NVW3Z1
+R6
+32
+R150
+!i10b 1
+R151
+R152
+R153
+!i113 1
+R11
+R12
+Espalu
+Z154 w1590869513
+R20
+R1
+R2
+R3
+Z155 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spALU.vhd
+Z156 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spALU.vhd
+l0
+L5
+VZDcAMjh^_b[no8ML;bO5:3
+!s100 9o2nWbDRB=?0@hU<<?^R^2
+R6
+32
+R150
+!i10b 1
+R151
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spALU.vhd|
+Z158 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spALU.vhd|
+!i113 1
+R11
+R12
+Aspalumodel
+R20
+R1
+R2
+DEx4 work 5 spalu 0 22 ZDcAMjh^_b[no8ML;bO5:3
+l14
+L13
+VMLl]S4c<3eUj2ILgN=VTn0
+!s100 zE5LVeE?e?e8dE]4:OMUc1
+R6
+32
+R150
+!i10b 1
+R151
+R157
+R158
+!i113 1
+R11
+R12
+Espcu
+Z159 w1590861409
+R1
+R2
+R3
+Z160 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spCU.vhd
+Z161 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spCU.vhd
+l0
+L4
+V[CgD<XWG1GAg7fImjGaeF3
+!s100 _R1nPckOlBK9;7z2c78h;0
+R6
+32
+R150
+!i10b 1
+R151
+Z162 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spCU.vhd|
+Z163 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/spCU.vhd|
+!i113 1
+R11
+R12
+Aspcumodel
+R1
+R2
+Z164 DEx4 work 4 spcu 0 22 [CgD<XWG1GAg7fImjGaeF3
+l34
+L13
+Z165 V4]cT1=Iz8]MzilMVamDD42
+Z166 !s100 @@H>W^laKz2[X?U[4fTAW0
+R6
+32
+R150
+!i10b 1
+R151
+R162
+R163
+!i113 1
+R11
+R12
+Esu
+Z167 w1590555456
+R20
+R1
+R2
+R3
+Z168 8C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/SU.vhd
+Z169 FC:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/SU.vhd
+l0
+L5
+VN1NWWhLY3@aaUkngWih=E3
+!s100 [E?88e4>6hOL<5GkYYb5P2
+R6
+32
+Z170 !s110 1590910685
+!i10b 1
+R8
+Z171 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/SU.vhd|
+Z172 !s107 C:/Users/pc/Desktop/uni/Computer Architetcture/Project/ProcessorWithFU-working Aya/SU.vhd|
+!i113 1
+R11
+R12
+Asumodel
+R20
+R1
+R2
+DEx4 work 2 su 0 22 N1NWWhLY3@aaUkngWih=E3
+l26
+L15
+VJ9emSZDP=YZeF2RkYP`4Y0
+!s100 fiKcNjP`CaTYalKViBI9z1
+R6
+32
+R170
+!i10b 1
+R8
+R171
+R172
+!i113 1
+R11
+R12
